@@ -9,4 +9,5 @@ Code for "An asynchronous gated recurrent network for estimating critical transi
 - keras
 
 ## Basic Usage
-- Parameters can be speicified in main.py.
+- In forecast.py, 80% of the dchi are used as training datasets and the rest as testing datasets without LOO.
+- The author computed each result predicted by LOO due to a high volume of calculations and limited computer configuration, then assembled them.
