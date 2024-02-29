@@ -1,6 +1,25 @@
 # AGRN
 Code for "An asynchronous gated recurrent network for estimating critical transition of bearing deterioration''
 
+# Please cite this paper if the code is helpful
+C. Li, Y. Wu, Y. Bai and S. Yang, "An Asynchronous Gated Recurrent Network for Estimating Critical Transition of Bearing Deterioration," in IEEE Transactions on Industrial Informatics, vol. 20, no. 2, pp. 1498-1507, Feb. 2024, doi: 10.1109/TII.2023.3278869.
+
+# keywords
+Feature extraction;
+Logic gates;
+Prognostics and health management;
+Maintenance engineering;
+Estimation;
+Vibrations;
+Degradation;
+Asynchronous gated recursive network (AGRN);
+bearing degradation;
+critical transition;
+feature extraction;
+prognostics and health management (PHM).
+
+
+
 ## Requirements
 - Python version : 3.7
 - cuda==10.0
